@@ -1,5 +1,7 @@
 name: Generate SBOM Report with Syft test update
 
+#add a comment
+
 on:
   push:
     branches:
